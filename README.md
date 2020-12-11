@@ -1,4 +1,5 @@
-# VITMAV45_project: AI Chatbot using a Seq2Seq model
+# VITMAV45_project
+## Conloquor: AI Chatbot using a Seq2Seq model
 ### Team members:
 Béres Bálint (DTY6T7)
 
