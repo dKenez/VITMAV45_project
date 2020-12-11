@@ -1,8 +1,10 @@
 # VITMAV45_project
 ### Team members:
-Béres Bálint
-Drexler Kristóf
-Drexler Konrád
+Béres Bálint (DTY6T7)
+
+Drexler Kristóf (I6I283)
+
+Drexler Konrád (J5SZVX)
 
 ### Summary:
 This is a project were we used deep learning to train a model to output answers to input sentences.
