@@ -7,6 +7,10 @@ Drexler Kristóf (I6I283)
 
 Drexler Konrád (J5SZVX)
 
+### Presentation:
+
+youtube link: https://youtu.be/BrTH5X69ZZ0
+
 ### Summary:
 This is a project were we used deep learning to train a model to output answers to input sentences.
 
