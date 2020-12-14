@@ -9,7 +9,7 @@ Drexler Konrád (J5SZVX)
 
 ### Presentation:
 
-youtube link: https://youtu.be/ZjYpKYsEGI4
+youtube link: https://youtu.be/XnBaMzrm6dw
 
 Old video for the archives: https://youtu.be/BrTH5X69ZZ0
 
