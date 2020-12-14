@@ -9,7 +9,9 @@ Drexler Konrád (J5SZVX)
 
 ### Presentation:
 
-youtube link: https://youtu.be/BrTH5X69ZZ0
+youtube link: https://youtu.be/ZjYpKYsEGI4
+
+Old video for the archives: https://youtu.be/BrTH5X69ZZ0
 
 ### Summary:
 This is a project were we used deep learning to train a model to output answers to input sentences.
